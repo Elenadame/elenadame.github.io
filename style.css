@@ -27,11 +27,10 @@ h4{
   margin-right: auto;
   max-width: 250;
   max-height: 250;
-  width: 50%;
-  height: auto;
+  
 }
 
 .buttoncenter{
-  vertical-align: middle;
+  text-align: center;
 }
   
