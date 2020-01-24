@@ -8,6 +8,20 @@ text-align: center;
 font-family: Sans-serif;
 }
 
+h2{
+  color: #3C6976;
+  text-align: center;
+  font-family: Sans-serif;
+}
+
+h4{
+  font-family: Sans-serif;
+  color: #20434D;
+  font-style: italic;
+  text-align: center;
+}
+
+
 div{
  color: #30003B;
  text-align: center;
@@ -15,11 +29,7 @@ div{
  font-style: italic;
 }
 
-h4{
-  font-family: Sans-serif;
-  color: #20434D;
-  font-style: italic;
-}
+
   
 .center{
   display: block;
