@@ -8,7 +8,7 @@ var quotes=[
 'Do one thing every day that scare you. - Eleanor Rososevelt'
 ]
 
-function newQuote(){
+function randomQuote(){
 var rannum = Math.floor(Math.random() * (quotes.length));
 document.getElementByID('RandomQuote').innerHTML = quotes[rannum];
 }
