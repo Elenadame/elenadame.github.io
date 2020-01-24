@@ -10,7 +10,7 @@ var quotes=[
 
 function randomQuote(){
 var rannum = Math.floor(Math.random() * (quotes.length));
-document.getElementByID('RandomQuote').innerHTML = quotes[rannum];
+document.getElementById('RandomQuote').innerHTML = quotes[rannum];
 }
 
 
