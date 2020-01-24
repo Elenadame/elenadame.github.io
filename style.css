@@ -12,6 +12,13 @@ div{
  color: #30003B;
  text-align: center;
  font-family: "Courier New";
+ font-style: italic;
+}
+
+h4{
+  font-family: Sans-serif;
+  color: #20434D;
+  font-style: italic;
 }
   
   
