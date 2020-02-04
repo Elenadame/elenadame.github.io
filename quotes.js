@@ -1,5 +1,5 @@
 var quotes=[
-'Do. Or do not. There is no try. - Joda',
+'Do. Or do not. There is no try. - Yoda',
 'To infinity and beyond. - Toy Story',
 'Be yourself; everyone else is already taken - Oscar Wilde',
 'I never look back, darling! It distracts me from the now. - Edna Mode',
