@@ -22,6 +22,12 @@ h4{
 }
 
 
+h6{
+  font-family: sans-serif;
+  font-size: medium;
+}
+
+
 div{
  color: #30003B;
  text-align: center;
@@ -30,14 +36,14 @@ div{
 }
 
 
-  
+
 .center{
   display: block;
   margin-left: auto;
   margin-right: auto;
   max-width: 250;
   max-height: 250;
-  
+
 }
 
 button{
