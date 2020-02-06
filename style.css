@@ -14,10 +14,7 @@ h2{
   font-family: Sans-serif;
 }
 
-h3{
-  font-size: 16px;
 
-}
 
 h4{
   font-family: Sans-serif;
@@ -26,6 +23,11 @@ h4{
   text-align: center;
 }
 
+
+h5{
+  font-size: 16px;
+
+}
 
 h6{
   font-family: sans-serif;
