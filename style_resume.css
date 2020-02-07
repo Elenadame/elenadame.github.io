@@ -30,7 +30,7 @@ h6{
   font-size: 18px;
 }
 
-ul{
+ul.banner{
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -38,11 +38,11 @@ ul{
   background-color: #BC8F8F;
 }
 
-li{
+li.bannerlist{
   float: left;
 }
 
-li a{
+li a.bannertxt{
   display: block;
   color: white;
   text-align: center;
@@ -50,6 +50,6 @@ li a{
   text-decoration: none;
 }
 
-li a:hover{
+li a.bannertxt:hover{
   background-color: #8c6c6c;
 }
