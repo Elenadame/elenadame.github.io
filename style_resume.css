@@ -1,1 +1,31 @@
 
+h1{
+  text-align: center;
+
+}
+
+h2{
+  color: #20434D;
+}
+
+h3{
+  color: #20434D;
+  font-size: 24px;
+
+}
+
+h4{
+  margin-bottom: -30px;
+  font-size: 20px;
+}
+
+h5{
+  margin-bottom: -15px;
+  color: #555457;
+  font-size:16px;
+
+}
+
+h6{
+  font-size: 18px;
+}
