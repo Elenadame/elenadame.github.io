@@ -1,136 +1,47 @@
-*{
-  margin: 0;
-  padding: 0;
+
+body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
-
-body{
-  background-color: ##FCFCFC;
-}
-
-nav{
-  width: 100%;
-  height: 50px;
-  background-color: #596274;
-  overflow: hidden;
+.jumbotron h1{
+font-family: 'Nothing You Could Do', cursive;
 
 }
 
-
-ul {
-
-}
-
-li {
-  list-style: none;
-  display: inline-block;
-  float: left;
-  line-height: 60px;
-}
-
-li a {
-  text-decoration: none;
-  font-size: 20px;
-  font-family: 'Exo', sans-serif;
-  color: #E2E2E2;
-  padding: 0 60px;
-  display: block;
+.card-img-top {
+    width: 100%;
+    height: 2vw;
+    object-fit: cover;
 }
 
 
-li a:hover{
-  background-color: #606773;
+.row p{
+  font-family: font-family: 'Montserrat', sans-serif;
 }
 
-.bottom_bar ul{
-  bottom: 0;
-  position: fixed;
-  width: 100%;
-  height: 50px;
-  background-color: #596274;
-  overflow: hidden;
+
+.card-columns h2{
+font-family: font-family: 'Montserrat', sans-serif;
+font-size: 28px;
 }
 
-.bottom_bar li{
-padding: 0 60px;
-font-size: 20px;
-color: #E2E2E2;
-font-family: 'Exo', sans-serif;
+.card-columns h1{
+font-family: font-family: 'Montserrat', sans-serif;
+font-size: 16px;
 }
 
-.bottom_bar i{
+
+.fill-height{
   position: relative;
-  top: 5px;
-  bottom: 5px;
-  color: #E2E2E2;
-  padding-right: 10px;
+   min-height: 100%;
+   height:50vh;
+ }
 
-}
-
-.main img{
+#hello{
   position: absolute;
-  padding-top: 100px;
-  padding-left: 168px;
-  padding-bottom: 100px;
-  width: 300px;
-}
-
-
-.main_content img{
-  background: transparent;
-  position: absolute;
-  padding-top: 290px;
-  padding-left: 760px;
-  width: 300px;
-}
-
-.main_content h1{
-  position: absolute;
-  font-size: 80px;
-  font-family: 'Allura', cursive;
-  text-align: left;
-  padding-left: 600px;
-  padding-top: 140px;
-  color: #100C24;
-}
-
-.main_content h2{
-font-size: 26px;
-position: absolute;
-text-align: left;
-font-family: 'Exo', sans-serif;
-color: #AF7280;
-padding-top: 215px;
-padding-left: 650px;
-}
-
-.main_content p{
-  font-size: 20px;
-  position: absolute;
-  text-align: left;
-  font-family: 'Exo', sans-serif;
-  color: #100C24;
-  padding-top: 260px;
-  padding-left: 650px;
-  padding-right: 100px;
-}
-
-
-.btn{
-  position: absolute;
-  font-family: 'Exo', sans-serif;
-  background-color: #100C24;
-  border: none;
-  color: #E2E2E2;
-  font-size: 20px;
-  top: 450px;
-  left: 740px;
-  right: 100px;
-  padding: 5px 5px;
-  width: 18%;
-
-}
-
-.btn:hover{
-  background-color: grey;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Nothing You Could Do', cursive;
 }
